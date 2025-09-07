@@ -4,4 +4,4 @@ Resting day 😎
 
 
 Report for last week
-Total Hours - 25hrs
+Total Hours - 24hrs
