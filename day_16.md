@@ -1,6 +1,6 @@
 # 🎯 Day16 of my #RoadToWeb3SecurityJobChallenge  
 
-- 🍅 **Hours worked:** 2 hrs
+- 🍅 **Hours worked:** 4 hrs
 - 🔎 **Focus:** Auditing  
 - 🛠️ **Practical work:**  
   - Continued auditing **GTE_XYZ** on Code4rena  
